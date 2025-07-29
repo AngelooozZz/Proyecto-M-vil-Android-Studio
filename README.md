@@ -1,44 +1,78 @@
 # Android Skills Portfolio
 
-**Número de equipo:** 3  
+**Número de equipo: 13**   
 **Integrantes:**
-- Ángel Ortiz - Desarrollador principal y diseñador UI
-- Karen López - Tester y apoyo en diseño
-- Roberto Sánchez - Documentación y control de versiones
-
+- Luis Angel Mateos Orrtiz - Desarrollador principal y diseñador
+- Yahir Fermin Velasco Luis - Tester y apoyo en diseño
+- 
 ## ¿Qué hace la aplicación?
 
-La aplicación **Android Skills Portfolio** permite a los usuarios practicar y reforzar sus conocimientos de Android Studio a través de una interfaz sencilla. Cuenta con un sistema de login funcional y navegación entre pantallas que muestran ejercicios prácticos como uso de `EditText`, `Button`, validación de datos y navegación con `Intent`.
-
+La aplicación **Android Skills Portfolio** permite a los usuarios practicar con el entonrno de Android Studio a través de una interfaz sencilla. Cuenta con un sistema de login funcional y navegación entre pantallas que muestran ejercicios guiados realizados en clase.
 ## Tipo de sistema
 
 **Proyecto Móvil Java** desarrollado en Android Studio.
 
-## Librería externa implementada
-
-- **Glide**: para cargar imágenes desde recursos o URLs de forma eficiente.
-  
----
 
 ## Ejercicios incluidos
 
-### 🧪 Ejercicio 1: Pantalla de Login
+###  Ejercicio 1: Actualizar una etiqueta con un botón
 **Captura de pantalla:**  
 ![Login](./screenshots/login.png)  
 **Descripción:**  
-Pantalla de inicio donde el usuario debe ingresar un correo y contraseña. Solo se permite el acceso con una combinación válida.
-
-### 🧪 Ejercicio 2: Navegación entre actividades  
+Actualiza el texto dentro de una TextView al pulsar un botón, demostrando el manejo básico de eventos en Android.
+###  Ejercicio 2: Cambio de color de fondo
 **Captura de pantalla:**  
 ![Navegación](./screenshots/navegacion.png)  
 **Descripción:**  
-Después del login, el usuario puede acceder a distintos ejercicios usando botones que navegan entre actividades usando `Intent`.
+Cambia el color de fondo de la pantalla según el boton seleccionado
 
-### 🧪 Ejercicio 3: Validación de campos  
+###  Ejercicio 3:  Mostrar campo seleccionado 
 **Captura de pantalla:**  
 ![Validación](./screenshots/validacion.png)  
 **Descripción:**  
-Campos que muestran mensajes si están vacíos o si la entrada no cumple con los requisitos básicos.
+Muestra en una etiqueta las opciones seleccionadas.
+
+###  Ejercicio 4:  Seleccionar una opción 
+**Captura de pantalla:**  
+![Validación](./screenshots/validacion.png)  
+**Descripción:**  
+Se selecciona unacamente una opción como metodo de pago y se confirma con un botón.
+
+###  Ejercicio 5:  Mostrar campo pulsado 
+**Captura de pantalla:**  
+![Validación](./screenshots/validacion.png)  
+**Descripción:**  
+Se muestra en una etiqueta la opcion seleccionada cuando se hace click en el boton "Mostrar".
+
+###  Ejercicio 6:  Barra de volumen 
+**Captura de pantalla:**  
+![Validación](./screenshots/validacion.png)  
+**Descripción:**  
+Muestra el nivel de volumen segun se mueva la barra.
+
+###  Ejercicio 7:  Seleccion de un ComboBox
+**Captura de pantalla:**  
+![Validación](./screenshots/validacion.png)  
+**Descripción:**  
+Se selecciona una opción de un ComboBox y se muestra en una etiqueta.
+
+###  Ejercicio 8:  Sumar costos
+**Captura de pantalla:**  
+![Validación](./screenshots/validacion.png)  
+**Descripción:**  
+Se ingresa un monto inicial, y segun se seleccione un servicio se añade el costo al total.
+
+###  Ejercicio 9:  Seleccionar opcion 
+**Captura de pantalla:**  
+![Validación](./screenshots/validacion.png)  
+**Descripción:**  
+Se selecciona una opcion del ComboBox y se muestra a continuación. 
+
+###  Ejercicio 10:  Mostrar imagen 
+**Captura de pantalla:**  
+![Validación](./screenshots/validacion.png)  
+**Descripción:**  
+Se muestra una imagen de fondo al seleccionar el "Ejercicio 10".
 
 ---
 
@@ -47,7 +81,7 @@ Campos que muestran mensajes si están vacíos o si la entrada no cumple con los
 - **Mínimo SDK:** API 24 (Android 7.0 Nougat)
 - **Target SDK:** API 34 (Android 14)
 - **Librerías externas utilizadas:**
-  - `implementation 'com.github.bumptech.glide:glide:4.16.0'`
+
 
 **Buenas prácticas aplicadas:**
 - Uso de nombres de variables descriptivos.
