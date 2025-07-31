@@ -64,7 +64,7 @@ Mueve los textos seleccionados a otra etiqueta, tiene dos botones para agregar y
 
 ###  Ejercicio 7:  Calcula área y perímetro
 **Captura de pantalla:**  
-
+![Ejercicio7](https://github.com/user-attachments/assets/2ce259bb-0c44-4818-868e-7559435adf22)
 **Descripción:**  
 Calcula el area y el perimetro usando un botón y la medida del radio.
 
