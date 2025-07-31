@@ -23,9 +23,9 @@ La aplicación **Android Skills Portfolio** permite a los usuarios practicar con
 Aqui se deben insertar los datos que solicita, si son incorrectos nos dara una notificación.
 En case de que los datos sean correctos nos dirige al inicio.
 
-###  Ejercicio 1: Actualizar una etiqueta con un botón
+###  Ejercicio 1: Muestra y oculta etiquetas
 **Captura de pantalla:**  
-![Ejercicio1](https://github.com/user-attachments/assets/22030797-80d1-4624-bd3b-7acc286ad2d6)
+![Ejercicio1](https://github.com/user-attachments/assets/021cf97f-e838-4eae-879a-8566f7840ef5)
 **Descripción:**  
 Muestra y oculta los datos de Ciudad y Nombre con un botón.
 
@@ -35,11 +35,11 @@ Muestra y oculta los datos de Ciudad y Nombre con un botón.
 **Descripción:**  
 Cambia el color de fondo de la pantalla según el boton seleccionado
 
-###  Ejercicio 3:  Mostrar campo seleccionado 
+###  Ejercicio 3:  Transcribir en tiepo real
 **Captura de pantalla:**  
-![Ejercicio3](https://github.com/user-attachments/assets/cfc61a0f-1fc0-4cc3-97be-0af06e57b5e5)
+![Ejercicio3](https://github.com/user-attachments/assets/dac9c042-ff5a-4725-bfb3-d79e5947678e)
 **Descripción:**  
-Muestra en una etiqueta las opciones seleccionadas.
+Reescribe el texto que insertamos a otra etiqueta en tiempo real y tiene un boton para vaciar la cadena.
 
 ###  Ejercicio 4:  Seleccionar una opción 
 **Captura de pantalla:**  
@@ -47,41 +47,44 @@ Muestra en una etiqueta las opciones seleccionadas.
 **Descripción:**  
 Se selecciona unacamente una opción como metodo de pago y se confirma con un botón.
 
-###  Ejercicio 5:  Mostrar campo pulsado 
+###  Ejercicio 5:  Calculadora de IVA
 **Captura de pantalla:**  
-![Ejercicio5](https://github.com/user-attachments/assets/b7a4d7a5-c7bd-42c2-befe-532e3b208301)
+![Ejercicio5](https://github.com/user-attachments/assets/414c61b9-3b5f-4166-b605-43f727222c60)
 **Descripción:**  
-Se muestra en una etiqueta la opcion seleccionada cuando se hace click en el boton "Mostrar".
+Solicita total de unidades vendidas y el precio por unidad, despues hace las operaciones 
+para obtener el el IVA, el total y el total sin iva, y tiene un botón para calcular.
 
-###  Ejercicio 6:  Barra de volumen 
+###  Ejercicio 6:  Mover textos 
 **Captura de pantalla:**  
-![Ejercicio6](https://github.com/user-attachments/assets/b8380dd8-b129-47a0-beaf-154d26c7cffa)
+![Ejercicio6](https://github.com/user-attachments/assets/f60dde75-1f1e-49f5-a6ea-9bddc50305b9)
+**Descripción:**  
+Mueve los textos seleccionados a otra etiqueta, tiene dos botones para agregar y quitar
+
+###  Ejercicio 7:  Calcula área y perímetro
+**Captura de pantalla:**  
+
+**Descripción:**  
+Calcula el area y el perimetro usando un botón y la medida del radio.
+
+###  Ejercicio 8:  Barra de volumen 
+**Captura de pantalla:**  
+![Ejercicio8](https://github.com/user-attachments/assets/b8380dd8-b129-47a0-beaf-154d26c7cffa)
 **Descripción:**  
 Muestra el nivel de volumen segun se mueva la barra.
 
-###  Ejercicio 7:  Seleccion de un ComboBox
+###  Ejercicio 9:  Reescrinir numeros.
 **Captura de pantalla:**  
-![Ejercicio7](https://github.com/user-attachments/assets/fb924cc0-4046-4626-9365-812fdb2902f8) 
+![Ejercicio9](https://github.com/user-attachments/assets/2cd0a97d-6b94-4d05-924f-a2ca1d101bfc)
 **Descripción:**  
-Se selecciona una opción de un ComboBox y se muestra en una etiqueta.
+Reescribe los numeros que selecciones y tiene un boton de cerrar.
 
-###  Ejercicio 8:  Sumar costos
+###  Ejercicio 10:  Seleccionar opcion 
 **Captura de pantalla:**  
-![Ejercicio8](https://github.com/user-attachments/assets/5ec9c1df-06d2-43c1-adfd-289332b1b09d)
-**Descripción:**  
-Se ingresa un monto inicial, y segun se seleccione un servicio se añade el costo al total.
-
-###  Ejercicio 9:  Seleccionar opcion 
-**Captura de pantalla:**  
-![Ejercicio9](https://github.com/user-attachments/assets/2835d52e-a218-465c-adc0-e2b7caf24a10)  
+![Ejercicio10](https://github.com/user-attachments/assets/2835d52e-a218-465c-adc0-e2b7caf24a10)  
 **Descripción:**  
 Se selecciona una opcion del ComboBox y se muestra a continuación. 
 
-###  Ejercicio 10:  Mostrar imagen 
-**Captura de pantalla:**  
-![Ejercicio10](https://github.com/user-attachments/assets/f6dc5b4e-f1b8-4c0b-bebd-b25477b69fd8)
-**Descripción:**  
-Se muestra una imagen de fondo al seleccionar el "Ejercicio 10".
+
 
 ---
 
