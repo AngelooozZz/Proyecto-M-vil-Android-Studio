@@ -18,7 +18,9 @@ La aplicación **Android Skills Portfolio** permite a los usuarios practicar con
 ###  Login: Interfaz de inicio
 **Captura de pantalla:**  
 ![ImagenLoginDatosFlase](https://github.com/user-attachments/assets/ccba1a80-fec8-43b7-bb0b-47706d89f292)
-![InicioApp](https://github.com/user-attachments/assets/5a89a921-62eb-4753-9db8-af32d66d9873)
+![InicioApp2](https://github.com/user-attachments/assets/99a94d66-8c95-4917-9cb7-b35a32565aab)
+
+
 **Descripción:**  
 Aqui se deben insertar los datos que solicita, si son incorrectos nos dara una notificación.
 En case de que los datos sean correctos nos dirige al inicio.
