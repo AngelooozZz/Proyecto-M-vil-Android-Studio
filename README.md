@@ -27,7 +27,7 @@ En case de que los datos sean correctos nos dirige al inicio.
 **Captura de pantalla:**  
 ![Ejercicio1](https://github.com/user-attachments/assets/22030797-80d1-4624-bd3b-7acc286ad2d6)
 **Descripción:**  
-Actualiza el texto dentro de una TextView al pulsar un botón, demostrando el manejo básico de eventos en Android.
+Muestra y oculta los datos de Ciudad y Nombre con un botón.
 
 ###  Ejercicio 2: Cambio de color de fondo
 **Captura de pantalla:**  
